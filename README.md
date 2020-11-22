@@ -1,3 +1,3 @@
 # codility for Programmers
 
-example solution for codilyty problem
+example solution for codility problem
